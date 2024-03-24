@@ -2,7 +2,7 @@
 
 /mkdocs-material
 /site
-/docs
+
 
 # other files to ignore
 .DS_Store
